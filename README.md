@@ -188,6 +188,6 @@ August, Benito  </a></h1>
     <img alt="Kaggle" src="https://img.shields.io/badge/gmail-05977C?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
   <a href="https://www.credly.com/users/benitoaugust" target="_blank">
-    <img alt="Credly" src="logoColor=white">
+    <img alt="Credly" src="https://img.shields.io/badge/credly-05977C?style=for-the-badge&logo=credly&logoColor=white">
   </a>  
 
