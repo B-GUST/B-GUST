@@ -187,3 +187,7 @@ August, Benito  </a></h1>
   <a href="mailto:augustbenitogroup@gmail.com" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/gmail-05977C?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
+  <a href="https://www.credly.com/users/benitoaugust" target="_blank">
+    <img alt="Credly" src="logoColor=white">
+  </a>  
+
