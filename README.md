@@ -1,4 +1,4 @@
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  ![header](https://github.com/B-GUST/imageforgithub/blob/main/Banner.jpg)
 <p align="center">
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm <a href="https://github.com/B-GUST" target="blank">
