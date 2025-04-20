@@ -126,7 +126,7 @@ Aquí encontrarás una visión general de las tecnologías y herramientas con la
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-
+&emsp;
 <a href="#"><img alt="Clickup" src="https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white"></a>
 &emsp;
 
