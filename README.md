@@ -69,6 +69,17 @@ Mi curiosidad me mantiene en constante aprendizaje. Actualmente profundizando en
 
 ---
 
+### 📊 Mis Estadísticas en GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-GUST&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=B-GUST&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+
 ### 🤝 Hablemos de Datos y Liderazgo
 
 <p align="center">
